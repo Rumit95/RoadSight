@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local model checkpoints; obtain and store outside Git by default.
+*.pt
+
+# Local datasets and generated training artifacts, if placed in this project.
+data/
+runs/
+
+# KITTI-derived demo media and GPS. Do not publish these dataset files.
+demo/*.mp4
+demo/*.avi
+demo/*.csv
+
+# Generated road data cache
+cache/
+
+# Local secrets and environment files
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
