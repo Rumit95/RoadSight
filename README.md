@@ -13,9 +13,9 @@ simulated route.
 The app source runs independently of the training project. You need a compatible trained YOLO
 checkpoint, but you do not need the training code or dataset to run the app.
 
-## Demo video
+## Demo
 
-[Watch the RoadSight demo](demo%20video/Road%20Sight%20Demo.mp4).
+![RoadSight demo](demo%20video/Road%20Sight%20Demo.gif)
 
 ## Setup and run
 
