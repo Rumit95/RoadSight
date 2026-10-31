@@ -13,6 +13,10 @@ simulated route.
 The app source runs independently of the training project. You need a compatible trained YOLO
 checkpoint, but you do not need the training code or dataset to run the app.
 
+## Demo video
+
+[Watch the RoadSight demo](demo%20video/Road%20Sight%20Demo.mp4).
+
 ## Setup and run
 
 Use Python 3.10 or newer. From a terminal in the `roadsight_app` folder:
